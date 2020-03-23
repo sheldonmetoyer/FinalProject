@@ -1,0 +1,19 @@
+.bio{
+    background-color: rgb(103, 103, 104);
+    padding: 50px;
+    font-size: 1.4rem;
+    margin: auto;
+    color: lightskyblue;
+}
+
+.employees{
+    background-color: rgb(103, 103, 104);
+    text-align: center;
+}
+
+h1{
+    background-color: rgb(103, 103, 104);
+    margin: auto;
+    text-align: center;
+    padding-bottom: 5px;
+}

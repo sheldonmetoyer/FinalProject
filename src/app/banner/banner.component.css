@@ -1,0 +1,16 @@
+/* Place text in the middle of the image */
+.banner-text {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    color: black;
+    background-color: lightskyblue;
+}
+
+.banner-text p{
+    background: lightskyblue;
+    height: 70%;
+    margin-bottom: auto;
+}
+
